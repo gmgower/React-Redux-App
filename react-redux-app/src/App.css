@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 1px solid #ef5839
+  }
+
+a {
+  color: #ef5839;
+}
+
+a:hover,
+a:focus {
+  color: #d4b44c;
+}
